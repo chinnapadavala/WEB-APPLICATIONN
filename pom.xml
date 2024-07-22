@@ -3,8 +3,8 @@
 
   <modelVersion>4.0.0</modelVersion> 
 
-  <groupId>com.sumalatha</groupId>
-  <artifactId>simplewebapp</artifactId>
+  <groupId>com.raji</groupId>
+  <artifactId>simpleweb</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>Maven Project</name>
